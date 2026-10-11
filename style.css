@@ -1,0 +1,80 @@
+body
+{
+margin: 0;
+    background:
+        radial-gradient(circle at 10% 20%, #FFF1A8 0 60px, transparent 61px),
+        radial-gradient(circle at 90% 15%, #BDEBFF 0 70px, transparent 71px),
+        radial-gradient(circle at 5% 90%, #C8F7D5 0 80px, transparent 81px),
+        linear-gradient(135deg, #E8F9FF, #F0FFF4, #FFF8E7);
+    font-family: sans-serif;
+    text-align: center;
+     } 
+            
+            nav
+            {
+                background-color:white;
+                height:80px;
+                display:flex;
+                justify-content:flex-end;
+               
+            }
+            nav a{
+                
+                font-size:20px;
+                text-decoration:none;
+                padding:23px;
+
+            
+            }
+            .center
+            {
+                color:navy;
+                font-size:40px;
+
+            }
+            center p{
+                font-size:30px;
+                font-weight:10px;
+                gap:30px;
+                color:black;;
+            }
+            div
+            {
+                background-color:white;
+                width:400px;
+                height:600px;
+                border-radius: 20px;
+                text-align:center;
+                line-height: 1em;
+                display:inline-block;
+                padding:40px;
+                justify-content: space-between;
+                gap:50px;
+                margin:auto;
+                justify-content: space-between;
+                margin:30px;
+
+            }
+            div p
+            {
+                font-weight:20px;
+                font-size:20px;
+                line-height: 1em;
+            }
+            .btn
+            {
+                width:120px;
+                height:40px;
+                font-size:20px;
+                border-radius:10px;
+                background-color:aquamarine;
+                color:white;
+            }
+            .btn:hover{
+                color:blueviolet;
+            }
+            center p{
+                color:navy;
+            }
+
+  
